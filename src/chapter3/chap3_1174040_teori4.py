@@ -1,0 +1,3 @@
+import kalkulator
+
+x = kalkulator

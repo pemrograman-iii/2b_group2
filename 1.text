@@ -1,0 +1,103 @@
+documentclass[11pt, a4paper]{article}
+\usepackage{graphicx}
+\begin{document}
+\section{liyana majdah rahma/1174039}
+\section{Sejarah Python}
+Python diciptakan oleh Guido van Rossum pertama kali di Scitchting Mathematisch Centrum (CWI) di Belanda pada awal tahun 1990-an. Bahasa python terinspirasi dari bahasa pemrograman ABC. Sampai sekarang, Guido masih menjadi penulis utama untuk python, meskipun bersifat open source sehingga ribuan orang juga berkontribusi dalam mengembangkannya.
+Python merupakan bahasa pemrograman interpretatif multiguna dengan filosofi perancangan yang berfokus pada tingkat keterbacaan kode.
+Saat ini kode python dapat dijalankan di berbagai platform sistem operasi, beberapa diantaranya Linux/Unix, Windows, Mac OS X, Java Virtual Machine, OS/2, Amiga, Palm.
+\section{Instalasi Anaconda}
+\begin{enumerate}
+    \item Langkah pertama harus install Anaconda di Laptop/Pc anda.
+    \item Jika yang belum download, silahkan download di https://www.anaconda.com/distribution/download-section
+    \item Klik kanan pada unduhan Anaconda, klik kanan, pilih Run As Administrator
+    \item Klik next
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/1.png}
+        \caption{File Instalasi Anaconda}
+        \label{File}
+        \end{figure}
+
+    \item Klik Next
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/2.png}
+        \caption{Tampilan Awal Instalasi Anconda}
+        \label{Awal}
+        \end{figure}
+
+    \item Klik I Agree
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/3.png}
+        \caption{Tampilan Licence Anaconda}
+        \label{Licence}
+        \end{figure}
+
+    \item Klik Just Me dan Klik Next
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/4.png}
+        \caption{Memilih Type Instalasi}
+        \label{Type}
+        \end{figure}
+
+    \item Klik Next
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/5.png}
+        \caption{Penyimpanan Instalasi Anaconda}
+        \label{Penyimpanan}
+        \end{figure}
+
+    \item Pilih Semua Kemudian Klik Next
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/6.png}
+        \caption{Opsi Anaconda}
+        \label{Opsi}
+        \end{figure}
+
+    \item Menunggu Instalasi
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/7.png}
+        \caption{Proses Installing}
+        \label{Proses}
+        \end{figure}
+
+    \item Setelah Completed Klik Next
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/8.png}
+        \caption{Installing Completed}
+        \label{Completed}
+        \end{figure}
+
+    \item Setelah Completed Klik Instal Microsoft VSCode
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/9.png}
+        \caption{Hak Akses Anaconda}
+        \label{Akses}
+        \end{figure}
+
+    \item Klik Finish
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/10.png}
+        \caption{Instalasi Selesai}
+        \label{Selesai}
+        \end{figure}
+\end{enumerate}
+\section{Spyder Python}
+Spyder merupakan sebuah tools atau media yang dipakai dalam bahasa python.
+    \begin{figure}[!htbp]
+        \centering
+        \includegraphics[width=3cm,height=3cm]{figures/spyder.png}
+        \caption{Spyder Python}
+        \label{Spyder}
+        \end{figure}
+
+\end{document}
