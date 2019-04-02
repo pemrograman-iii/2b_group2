@@ -175,7 +175,63 @@ Seperti halnya dengan blok kode yang lain, kita juga harus memberikan identasi u
 
 \subsection{Cek Plagiat}
 \begin{figure}[H]
-	\includegraphics[width=10cm]{figures/5/1174063/Teori/plagiatgabe.png}
+	\includegraphics[width=10cm]{figures/chapter5/1174063/plagiatgabe}
 	\centering
 	\caption{Hasil cek plagiat.}
+\end{figure}
+
+\section{Fathi Rabbani / 1164074}
+\subsection{Teori}
+\begin{enumerate}
+\item Fungsi Device manager pada Windows dan folder /dev pada Linux
+\subitem Device Manager dalam komputer Windows merupakan perluasan dari Microsoft Management Console. Device Manager menampilkan seluruh hardware yang bisa di-inisialisasi (dikenali) oleh Windows. Tampilannya sudah ter-organisir (dikelompokkan) sedemikian rupa sehingga akan memudahkan pengelolaan setiap hardware yang ada. berikut ini adalah kegunaan dari Device Manager :
+\begin{itemize}
+\item Menunjukkan status suatu hardware
+\item Menunjukkan informasi detil suatu hardware
+\item Mengelola driver hardware
+\item Disable dan Enable hardware
+\item Meng-identifikasi konflik antar hardware, dll.
+\end{itemize}
+
+\subitem folder /dev pada linux merupakan direktori yang berfungsi untuk menyimpan konfigurasi device atau hardware dari sistem, seperti harddisk (hda, sda), terminal (tty) etc.
+
+\item Instalasi Driver Arduino
+\subitem Berikut ini adalah tahapan dalam melakukan proses instalasi Driver Arduino pada OS Windows :
+\begin{enumerate}
+\item Download terlebih dahulu Arduino IDE yang akan digunakan (yang terbaru 1.8.9) lalu install.
+\item Hubungkan perangkat Arduino Uno ke komputer dengan kabel USB type B 
+\item Lalu pada bagian kanan didesktop PC anda, akan muncul popup “Installing device driver software”
+\item Jika pada desktop tidak muncul popup maka buka Windows Device Manager (Start>Control Panel>Hardware) dan cari “Unknown Device” lalu klik kanan dan Pilih “Update Driver”.
+\item Pada screen selanjutnya pilih “Browse my computer for driver software” lalu klik Next.
+\item Lalu klik tombol “Browse” dan pilih lokasi pengistalan Arduino IDE yang telah diinstall, dan klik OK.
+\item Anda akan menerima pemberitahuan bahwa drivernya akan diinstall, lalu klik tombol “Install” dan Driver Arduino anda akan terupdate dengan sendirinya.
+\end{enumerate}
+
+\item Membaca baudrate dari Komputer
+\subitem setelah melakukan Instalasi IDE dan Driver Arduino pada Komputer maka anda dapat melakukan check baud ratenya pada IDE yang akan menampilkan datanya melalui Toolbar Menu>Serial Monitor.
+
+\item Sejarah PySerial
+\subitem PySerial merupakan sebuah library data yang digunakan untuk melakukan komunikasi ke port serial yang diutamakan adalah sistem mikrokontroller. PySerial pertama kali diluncurkan pada tahun 2002 hingga sekarang.
+
+\item Fungsi dari library PySerial
+\begin{enumerate}
+\item serial - membuka port serial
+\item write() - untuk menulis data
+\item readline - membaca sebuah string
+\item read() - membaca data 
+\item close - menutup port serial
+\end{enumerate}
+
+\item Kenapa Butuh Loop dan Tidak dalam membaca Serial
+\subitem Karena perulangan digunakan untuk membaca seluruh data pada serial yang ada setiap baris. Perulangan digunakan agar data dapat muncul secara terus menerus atau realtime. jika tidak dibuatkan perulangan maka data yang terbaca akan sekali saja dan tidak menghasilkan nilai yang bagus untuk akhirnya.
+
+\item Membuat fungsi menggunakan PySerial
+\lstinputlisting[caption = Fungsi yang menggunakan pyserial., firstline=1, lastline=7]{src/chapter5/teori/1164074.py}
+\end{enumerate}
+
+\begin{figure}[!ht]
+	\centering
+	\includegraphics[width=0.5\textwidth]{figures/chapter5/1164074/1}
+	\caption{Check Plagiarisme}
+	\label{fig1}
 \end{figure}
