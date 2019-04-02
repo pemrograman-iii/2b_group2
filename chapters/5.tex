@@ -253,3 +253,130 @@ Seperti halnya dengan blok kode yang lain, kita juga harus memberikan identasi u
 		\item Jelaskan bagaimana cara membuat fungsi yang mengunakan pyserial
 			\lstinputlisting [firstline=56, lastline=59]{src/chapter5/teori/1174059.py}
 	\end {enumerate}
+
+\section{Yusniar Nur Syarif Sidiq / 1164089}
+\subsection{Pemahaman Teori}
+\begin{enumerate}
+
+\item Apa itu fungsi device manager di windows dan folder /dev di linux?
+	\subitem Device manager merupakan perangkat lunak untuk menampilkan seluruh perangkat keras yang di-inisialisasi atau dikenali oleh sistem operasi Windows. Device Manager membantu dalam mengelola atau memange semua perangkat keras yang terpasang dan terdeteksi dalam sistem Windows. Fungsi device manager yaitu menunjukkan informasi detail mengenai suatu hardware, mengelola driver hardware, menaktifkan dan nonaktifkan hardware, dan memberikan terjadinya masalah pada hardware. Folder /dev merupakan representasi dari drive yang terhubung ke sistem operasi Libux dan sistem akan menganggap sebagai file-file direktori.
+
+\item Jelaskan Langkah-langkah instalasi driver arduino
+	\begin{itemize}
+
+	\item Install terlebih dahulu Arduino IDE pada PC anda
+
+	\item Pasangkan port USB Arduino Uno pada ports USB PC anda, figure \ref{YNC5-1}
+	
+	\begin{figure}[!htbp]
+		\centerline{\includegraphics[width=0.5\textwidth]{figures/chapter5/1164089/YNC5-1.png}}
+		\caption{Memasang Port USB.}
+		\label{YNC5-1}
+	\end{figure}	
+
+	\item Bula Start dan cari Device Manager, figure \ref{YNC5-2}
+
+	\begin{figure}[!htbp]
+		\centerline{\includegraphics[width=0.5\textwidth]{figures/chapter5/1164089/YNC5-2.png}}
+		\caption{Mencari Device Manager.}
+		\label{YNC5-2}
+	\end{figure}	
+
+	\item Carilah Unknown Device yang berbeda di Other Device, figue \ref{YNC5-3}
+
+	\begin{figure}[!htbp]
+		\centerline{\includegraphics[width=0.5\textwidth]{figures/chapter5/1164089/YNC5-3.png}}
+		\caption{Unknown Device.}
+		\label{YNC5-3}
+	\end{figure}	
+
+	\item Klik kanan lalu pilih Update Driver Software, figure \ref{YNC5-4}
+
+	\begin{figure}[!htbp]
+		\centerline{\includegraphics[width=0.5\textwidth]{figures/chapter5/1164089/YNC5-4.png}}
+		\caption{Update Driver Software.}
+		\label{YNC5-4}
+	\end{figure}	
+
+	\item Akan muncul windows baru lalu pilih  menu Browse my computer for driver software, figure \ref{YNC5-5}
+
+	\begin{figure}[!htbp]
+		\centerline{\includegraphics[width=0.5\textwidth]{figures/chapter5/1164089/YNC5-5.png}}
+		\caption{Browse my computer for driver software.}
+		\label{YNC5-5}
+	\end{figure}	
+
+	\item Cari folder Arduino lalu klik next, dan windows akan mencari, figure \ref{YNC5-6}
+
+	\begin{figure}[!htbp]
+		\centerline{\includegraphics[width=0.5\textwidth]{figures/chapter5/1164089/YNC5-6.png}}
+		\caption{Open Folder Arduino.}
+		\label{YNC5-6}
+	\end{figure}	
+
+	\item Lalu klik install, figure \ref{YNC5-7}
+
+	\begin{figure}[!htbp]
+		\centerline{\includegraphics[width=0.5\textwidth]{figures/chapter5/1164089/YNC5-7.png}}
+		\caption{Install.}
+		\label{YNC5-7}
+	\end{figure}	
+
+	\end{itemize}
+
+\item Jelaskan bagaimana cara membaca baudrate dan port dari komputer yang sudah terinstall driver !
+
+	\subitem Cara Membaca Baudrate
+	\begin{itemize}
+		\item Pertama kita buka Device Manager
+		\item Lalu pilih Port (COM \& LPT)
+		\item Klik dua kali pada COM yeng telah tersambung
+		\item Pilih menu Port Setting dan disitulah kita dapat melihat baudrate
+	\end{itemize}
+
+	\subitem Cara Membaca Port
+	\begin{itemize}
+		\item Pertama kita buka Device Manager
+		\item Lalu pilih Port (COM \& LPT)
+		\item Dan lihat apabila Arduino sudah tersambung maka akan terbaca
+	\end{itemize}
+
+\item Jelaskan sejarah Library pyserial !.
+	\subitem PySerial adalah paket Python yang menfasilitasi komunikasi serial antara PC dengan perangkat keras eksternal. PySerial menyediakan antarmuka untuk berkomunikasi melalui protokol komunikasi serial. Komunikasi serial adalah salah satu protokol komunikasi komputer tertua. Protokol komunikasi serial mendahului spesiﬁkasi USB yang digunakan oleh komputer dan perangkat keras lain seperti mouse, keyboard, dan webcam. USB adalah singkatan dari Universal Serial Bus. USB dibangun di atas dan memperluas antarmuka komunikasi serial asli.
+
+\item Jelaskan fungsi-fungsi apa saja yang dipakai pada lib pyserial !
+	\subitem Fungsi-fungsi Pada Lib Pyserial
+	\begin{itemize}
+		\item write(data) berfungsi untuk menulis data melalui port serial
+		\item readline() berfungsi untuk membaca string dari port serial
+		\item read(size) berfungsi untuk membaca jumlah byte dalam port serial
+		\item Serial berfugsi untuk membuka port serial
+		\item close() berfungsi untuk menutup port serial
+	\end{itemize}
+
+\item Jelaskan kenapa butuh perulangan dan tidak butuh perulangan dalam membaca serial !
+	\subitem Karena agar kita mendapatkan data yang cukup banyak supaya semakin akurat maka dari itu kita membutuhkan perulangan dan bila tidak dilakukan perulangan maka data hanya muncul sekali saja.
+
+\item Jelaskan bagaimana cara membuat fungsi yang menggunakan pyserial !
+
+	\subitem Membuat Fungsi Dengan Pyserial
+
+	\lstinputlisting[firstline=1, lastline=9]{src/chapter5/1164089/1164089_Teori.py}
+
+	Apabila di running dalam spyder maka hasilnya akan seperti pada figure \ref{YNC5-8}
+
+	\begin{figure}[!htbp]
+		\centerline{\includegraphics[width=0.5\textwidth]{figures/chapter5/1164089/YNC5-8.png}}
+		\caption{Fungsi Pyserial.}
+		\label{YNC5-8}
+	\end{figure}	
+
+Cek Plagiat dapat dilihat pada figire \ref{YNC5-CekPlagiat}
+
+	\begin{figure}[!htbp]
+		\centerline{\includegraphics[width=0.5\textwidth]{figures/chapter5/1164089/YNC5-CekPlagiat.png}}
+		\caption{Cek Plagiat.}
+		\label{YNC5-CekPlagiat}
+	\end{figure}		
+
+\end{enumerate}
