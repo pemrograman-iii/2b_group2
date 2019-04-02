@@ -1,13 +1,13 @@
-\contentsline {schapter}{Daftar Gambar}{xiii}
-\contentsline {schapter}{Daftar Tabel}{xvii}
-\contentsline {schapter}{Foreword}{xxxi}
-\contentsline {schapter}{Kata Pengantar}{xxxiii}
-\contentsline {schapter}{Acknowledgments}{xxxv}
-\contentsline {schapter}{Acronyms}{xxxvii}
-\contentsline {schapter}{Glossary}{xxxix}
-\contentsline {schapter}{List of Symbols}{xli}
-\contentsline {schapter}{Introduction}{xliii}
-\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xliii}
+\contentsline {schapter}{Daftar Gambar}{xv}
+\contentsline {schapter}{Daftar Tabel}{xix}
+\contentsline {schapter}{Foreword}{xxxv}
+\contentsline {schapter}{Kata Pengantar}{xxxvii}
+\contentsline {schapter}{Acknowledgments}{xxxix}
+\contentsline {schapter}{Acronyms}{xli}
+\contentsline {schapter}{Glossary}{xliii}
+\contentsline {schapter}{List of Symbols}{xlv}
+\contentsline {schapter}{Introduction}{xlvii}
+\contentsline {ichapter}{Rolly Maulana Awangga, S.T., M.T.}{xlvii}
 \contentsline {chapter}{\numberline {1}Judul Bagian Pertama}{1}
 \contentsline {section}{\numberline {1.1}Irvan Rizkiansyah}{1}
 \contentsline {section}{\numberline {1.2}Python}{1}
@@ -146,3 +146,17 @@
 \contentsline {subsection}{\numberline {4.7.1}Pemahaman Teori}{160}
 \contentsline {subsection}{\numberline {4.7.2}Keterampilan Pemograman}{162}
 \contentsline {subsection}{\numberline {4.7.3}Ketrampilan Penanganan Error}{164}
+\contentsline {section}{\numberline {4.8}Kevin Natanael Nainggolan 1174059}{164}
+\contentsline {section}{\numberline {4.9}Muhammad Iqbal Panggabean 1174063}{166}
+\contentsline {subsection}{\numberline {4.9.1}Praktek}{166}
+\contentsline {subsection}{\numberline {4.9.2}Ketrampilan Penanganan Error}{168}
+\contentsline {chapter}{\numberline {5}Judul Bagian Kelima}{171}
+\contentsline {section}{\numberline {5.1}Alit Fajar Kurniawan}{171}
+\contentsline {subsection}{\numberline {5.1.1}No. 1}{171}
+\contentsline {subsection}{\numberline {5.1.2}No. 2}{172}
+\contentsline {subsection}{\numberline {5.1.3}No. 3}{172}
+\contentsline {subsection}{\numberline {5.1.4}No. 4}{173}
+\contentsline {subsection}{\numberline {5.1.5}No. 5}{173}
+\contentsline {subsection}{\numberline {5.1.6}No. 6}{173}
+\contentsline {subsection}{\numberline {5.1.7}No. 7}{173}
+\contentsline {subsection}{\numberline {5.1.8}Cek Plagiat}{174}

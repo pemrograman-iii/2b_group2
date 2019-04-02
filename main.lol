@@ -422,3 +422,22 @@
 \contentsline {lstlisting}{\numberline {4.8}Membuat dan mebaca file CSV menggunakan library 1174006pandas.}{164}
 \contentsline {lstlisting}{\numberline {4.9}Membuat dan mmebaca file CSV menggunakan library 1174006pandas.}{164}
 \contentsline {lstlisting}{src/chapter4/1174057/1174057\textunderscore error.py}{164}
+\contentsline {lstlisting}{src/teoric4.py}{165}
+\contentsline {lstlisting}{src/teoric4.py}{165}
+\contentsline {lstlisting}{src/teoric4.py}{165}
+\contentsline {lstlisting}{src/teoric4.py}{165}
+\contentsline {lstlisting}{src/teoric4.py}{166}
+\contentsline {lstlisting}{src/teoric4.py}{166}
+\contentsline {lstlisting}{src/teoric4.py}{166}
+\contentsline {lstlisting}{src/chapter4/1174057/1174057\textunderscore error.py}{166}
+\contentsline {lstlisting}{\numberline {4.10}Fungsi untuk membuka file CSV dengan lib CSV mode list.}{167}
+\contentsline {lstlisting}{\numberline {4.11}Fungsi untuk membuka file CSV dengan lib CSV mode dictionary.}{167}
+\contentsline {lstlisting}{\numberline {4.12}Fungsi untuk membuka file CSV dengan lib Pandas mode list.}{167}
+\contentsline {lstlisting}{\numberline {4.13}Fungsi untuk membuka file CSV dengan lib Pandas mode dictionary.}{167}
+\contentsline {lstlisting}{\numberline {4.14}Fungsi untuk mengubah format tanggal menjadi standar dataframe.}{167}
+\contentsline {lstlisting}{\numberline {4.15}Fungsi untuk mengubah index kolom.}{168}
+\contentsline {lstlisting}{\numberline {4.16}Fungsi untuk mengubah atribut atau nama kolom.}{168}
+\contentsline {lstlisting}{\numberline {4.17}Membuat dan mebaca file CSV menggunakan library 1174006pandas.}{168}
+\contentsline {lstlisting}{\numberline {4.18}Membuat dan mmebaca file CSV menggunakan library 1174006pandas.}{168}
+\contentsline {lstlisting}{src/chapter4/1174063/1174063\textunderscore 2err.py}{168}
+\contentsline {lstlisting}{\numberline {5.1}Fungsi yang menggunakan pyserial.}{174}
