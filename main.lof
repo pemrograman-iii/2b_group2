@@ -45,4 +45,19 @@
 \contentsline {figure}{\numberline {4.6\relax }{\ignorespaces Contoh File CSV}}{156}
 \contentsline {figure}{\numberline {4.7\relax }{\ignorespaces Atribute Error}}{160}
 \contentsline {figure}{\numberline {4.8\relax }{\ignorespaces Atribute Error}}{160}
-\contentsline {figure}{\numberline {5.1\relax }{\ignorespaces Hasil cek plagiat}}{175}
+\contentsline {figure}{\numberline {5.1\relax }{\ignorespaces Hasil cek plagiat}}{187}
+\contentsline {figure}{\numberline {5.2\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk mendapatkan data dari Arduino dengan looping.}}{187}
+\contentsline {figure}{\numberline {5.3\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk mendapatkan data dari Arduino dan langsung ditulis kedalam file CSV.}}{187}
+\contentsline {figure}{\numberline {5.4\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk membaca file csv hasil arduino dan mengembalikan fungsi.}}{188}
+\contentsline {figure}{\numberline {5.5\relax }{\ignorespaces Hasil pembacaan fungsi untuk menanggulangi error menggunakan Try Except.}}{188}
+\contentsline {figure}{\numberline {5.6\relax }{\ignorespaces Hasil cek plagiat.}}{188}
+\contentsline {figure}{\numberline {5.7\relax }{\ignorespaces Check Plagiarisme}}{188}
+\contentsline {figure}{\numberline {5.8\relax }{\ignorespaces Memasang Port USB.}}{189}
+\contentsline {figure}{\numberline {5.9\relax }{\ignorespaces Mencari Device Manager.}}{189}
+\contentsline {figure}{\numberline {5.10\relax }{\ignorespaces Unknown Device.}}{189}
+\contentsline {figure}{\numberline {5.11\relax }{\ignorespaces Update Driver Software.}}{190}
+\contentsline {figure}{\numberline {5.12\relax }{\ignorespaces Browse my computer for driver software.}}{190}
+\contentsline {figure}{\numberline {5.13\relax }{\ignorespaces Open Folder Arduino.}}{190}
+\contentsline {figure}{\numberline {5.14\relax }{\ignorespaces Install.}}{190}
+\contentsline {figure}{\numberline {5.15\relax }{\ignorespaces Fungsi Pyserial.}}{191}
+\contentsline {figure}{\numberline {5.16\relax }{\ignorespaces Cek Plagiat.}}{191}
