@@ -7,7 +7,7 @@ Created on Tue Apr  2 20:59:08 2019
 import serial
 
 def cobaarduino():
-	ser = serial.Serial("COM4",9600)
+	ser = serial.Serial("COM10",9600)
 	print(ser.name)
 
 cobaarduino()

@@ -160,3 +160,25 @@
 \contentsline {subsection}{\numberline {5.1.6}No. 6}{173}
 \contentsline {subsection}{\numberline {5.1.7}No. 7}{173}
 \contentsline {subsection}{\numberline {5.1.8}Cek Plagiat}{174}
+\contentsline {subsection}{\numberline {5.1.9}No. 1}{174}
+\contentsline {subsection}{\numberline {5.1.10}No. 2}{174}
+\contentsline {subsection}{\numberline {5.1.11}No. 3}{175}
+\contentsline {subsection}{\numberline {5.1.12}No. 4}{175}
+\contentsline {subsection}{\numberline {5.1.13}No. 1}{176}
+\contentsline {section}{\numberline {5.2}Muhammad Iqbal Panggabean}{176}
+\contentsline {subsection}{\numberline {5.2.1}Pertanyaan No.. 1}{176}
+\contentsline {subsection}{\numberline {5.2.2}Pertanyaan No. 2}{177}
+\contentsline {subsection}{\numberline {5.2.3}Pertanyaan No. 3}{178}
+\contentsline {subsection}{\numberline {5.2.4}Pertanyaan No. 4}{178}
+\contentsline {subsection}{\numberline {5.2.5}Pertanyaan No. 5}{178}
+\contentsline {subsection}{\numberline {5.2.6}Pertanyaan No. 6}{179}
+\contentsline {subsection}{\numberline {5.2.7}Pertanyaan No. 7}{179}
+\contentsline {subsection}{\numberline {5.2.8}Cek Plagiat}{179}
+\contentsline {section}{\numberline {5.3}Fathi Rabbani / 1164074}{179}
+\contentsline {subsection}{\numberline {5.3.1}Teori}{179}
+\contentsline {section}{\numberline {5.4}Kevin Natanae Nainggolan 1174059}{181}
+\contentsline {subsection}{\numberline {5.4.1}TEORI}{181}
+\contentsline {subsection}{\numberline {5.4.2}PRAKTEK}{182}
+\contentsline {subsection}{\numberline {5.4.3}PENANGANAN ERROR}{184}
+\contentsline {section}{\numberline {5.5}Yusniar Nur Syarif Sidiq / 1164089}{184}
+\contentsline {subsection}{\numberline {5.5.1}Pemahaman Teori}{184}

@@ -441,3 +441,22 @@
 \contentsline {lstlisting}{\numberline {4.18}Membuat dan mmebaca file CSV menggunakan library 1174006pandas.}{168}
 \contentsline {lstlisting}{src/chapter4/1174063/1174063\textunderscore 2err.py}{168}
 \contentsline {lstlisting}{\numberline {5.1}Fungsi yang menggunakan pyserial.}{174}
+\contentsline {lstlisting}{\numberline {5.2}Fungsi untuk mendapatkan data dari Arduino.}{174}
+\contentsline {lstlisting}{\numberline {5.3}Fungsi untuk mendapatkan data langsung dari Arduino dengan looping.}{174}
+\contentsline {lstlisting}{\numberline {5.4}Fungsi untuk mendapatkan data dari Arduino dan langsung ditulis kedalam file CSV.}{175}
+\contentsline {lstlisting}{\numberline {5.5}Fungsi untuk membaca file CSV hasil Arduino dan mengembalikan fungsi.}{175}
+\contentsline {lstlisting}{\numberline {5.6}Fungsi untuk menanggulangi error menggunakan Try Except.}{176}
+\contentsline {lstlisting}{\numberline {5.7}Fungsi yang menggunakan pyserial.}{181}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{181}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{181}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{182}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{182}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{182}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{182}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{182}
+\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore realtime.py}{183}
+\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore save.py}{183}
+\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore realtimekecsv.py}{183}
+\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore csv.py}{183}
+\contentsline {lstlisting}{src/chapter5/penangananerror/1174059\textunderscore notiferror.py}{184}
+\contentsline {lstlisting}{src/chapter5/1164089/1164089\textunderscore Teori.py}{186}
