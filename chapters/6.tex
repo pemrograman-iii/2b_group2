@@ -310,3 +310,62 @@ Hasil dari source code tersebut akan diperlihatkan pada figure \ref{YNC6-10}.
 	\end{figure}
 
 \end{enumerate}
+
+\section {Kevin Natanae Nainggolan 1174059}
+	\subsection {TEORI}
+	\begin {enumerate}
+		\item  Apa itu fungsi library matplotlib
+			\newline Library plotting 2 dimensi Python yang menciptakan gambar publikasi bermutu di dalam berbagai macam format hardcopy
+		\item Jelaskan langkah-langkah membuat sumbu X dan Y di matplotlib
+			\newline  Membuat sumbu x dan y pada matplotlib, kita bisa membuatnya menggunakan list untuk mempermudah penyimpanan nilai setiap sumbunya. Seperti kode di bawah
+			\lstinputlisting [firstline=2, lastline=5]{src/chapter6/teori/1174059.py}
+		\item Jelaskan bagaimana perbedaan fungsi dan cara pakai untuk berbagai jenis(bar,histogram,scatter,line dll) jenis plot di matplotlib
+			\newline Untuk membedakan fungsi plot yang digunakan adalah dengan melihat bentuk grafik yang akan di tampilkan sesuai dengan perintah yang digunakan pada pemogramannya, dan untuk cara pengguna plot tersebut bisa dilihat sebagai berikut
+			\lstinputlisting [firstline=2, lastline=2]{src/chapter6/teori/1174059.py}
+				\begin {enumerate}
+					\item bar 
+					\newline Perhatikan kode dalam membentuk diagram bar seperti berikut
+						\lstinputlisting [firstline=21, lastline=29]{src/chapter6/teori/1174059.py}
+					\item histogram
+					\newline Dalam penggunaanya plot bar x dan y dapat diatur dengan angka koma
+						\lstinputlisting [firstline=35, lastline=41]{src/chapter6/teori/1174059.py}
+					\item scatter
+					\newline Diagram yang penampilannya dengan titik titik sebagai penandanya
+						\lstinputlisting [firstline=46, lastline=56]{src/chapter6/teori/1174059.py}
+					\item line
+					\newline Perhatikan kode dalam membentuk diagram line seperti berikut
+						\lstinputlisting [firstline=13, lastline=16]{src/chapter6/teori/1174059.py}
+					\item stack plot
+					\newline Penggunaan stack plot ini seperti diagram line, dengan warna yang mengisinua, serta antar line itu bisa berdekatan. Berikut Contoh penggunaannya
+						\lstinputlisting [firstline=61, lastline=83]{src/chapter6/teori/1174059.py}
+				\end {enumerate}
+		\item Jelaskan bagaimana cara menggunakan legend dan label serta kaitannya dengan fungsi tersebut
+		\newline Penggunaan legend untuk memudahkan dalam membaca grafik. Dalam penggunaan lagend dan label perhatikan code berikut
+			\lstinputlisting [firstline=55, lastline=55]{src/chapter6/teori/1174059.py}
+		\item Jelaskan apa fungsi dari subplot di matplotlib, dan bagaimana cara kerja dari fungsi subplot, sertakan ilustrasi dan gambar sendiri dan apa parameternya jika ingin menggambar plot dengan 9 subplot di dalamnya
+		\newline fungsi dari subplot dari matplotlib untuk bisa membuat lebih dari 1 grafik dalam sebuah program. Untuk parameternya sendiri kami menggunakan t1 dan t2. Cara kerjanya sendiri bisa d cek sebagai berikut
+			\lstinputlisting [firstline=87, lastline=112]{src/chapter6/teori/1174059.py}
+		\item Sebutkan semua parameter color yang bisa digunakan (contoh: m,c,r,k,... dkk)
+			\begin {itemize}
+				\item R untuk warna Red atau Merah
+				\item G untuk warna Green atau Hijau
+				\item B untuk warna Blue atau Biru
+				\item C untuk warna Cyan atau Biru Muda
+				\item M untuk warna Mangenta atau Merah Tua
+				\item Y untuk warna Yellow Atau Kuning
+				\item K untuk warna blacK atau Hitam
+			\end {itemize}
+		\item Jelaskan bagaimana cara kerja dari fungsi hist, sertakan ilustrasi dan gambar sendiri
+		\newline  Fungsi hist digunakan untuk menjumlahkan beberapa data yang memenuhi kriteria pramater yang kita tentukan, seprti contoh kode dibawah
+			\lstinputlisting [firstline=116, lastline=121]{src/chapter6/teori/1174059.py}
+		\item Jelaskan lebih mendalam tentang parameter dari fungsi pie diantaranya labels, colors, startangle, shadow, explode, autopct
+			\newline  
+			\begin{itemize}
+	\item labels : Isi dengan tipe data list dan tidak wajib untuk digunakan. Fungsi parameter labels untuk memberi label pada setiap pecahan data yang ada pada grafik pie yang ditampilkan.
+	\item colors : Tipe data array atau sejenis dan tidak wajib untuk digunakan. Fungsi parameter colors untuk mengganti warna pada setiap pecahan yang ada. Jika tidak digunakan atau ditentukan, maka warna yang akan dipakai adalah warna yang aktif atau standar.
+	\item startangle : Tipe data pecahan atau float, tidak wajib untuk digunakan. Fungsi parameter startangle adalah fungsi untuk memutar grafik agar berubah posisi dengan acuan yaitu angle awalan dari grafik pie.
+	\item shadow : Bertipe data boolean dan tidak wajib digunakan. Fungsi parameter shadow digunakan untuk membuat bayangan pada bawah grafik pie yang ditampilkan. 
+	\item explode : Bertipe data array atau sejenis dan tidak wajib digunakan. Fungsi parameter explode adalah menentukan radius untuk mengimbangi setiap pecahan pada grafik pie. Jika radius lebih dari 0 maka pecahan akan mulai menjauh dari pusat dan terlihat seperti keluar dari grafik lingkaran tersebut.
+	\item autopct : Bertipe data string atau fungsi dan tidak wajib digunakan. Fungsi parameter autopct adalah memberi label pada irisan dengan labelnya berupa fungsi atau string. 
+			\end{itemize}
+	\end {enumerate}
