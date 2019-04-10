@@ -41,422 +41,236 @@
 \contentsline {lstlisting}{src/chapter2/1174057\textunderscore praktek.py}{18}
 \contentsline {lstlisting}{src/chapter2/1174057\textunderscore praktek.py}{18}
 \contentsline {lstlisting}{src/errr2.py}{18}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 1.py}{20}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 2.py}{21}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 3.py}{21}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 4.py}{21}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 5.py}{21}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 6.py}{21}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 7.py}{21}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 8.py}{22}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 9.py}{22}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 10.py}{22}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 11.py}{23}
-\contentsline {lstlisting}{src/chapter2/1174043\textunderscore 2err.py}{23}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 1.py}{25}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 2.py}{25}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 3.py}{25}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 4.py}{25}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 5.py}{25}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 6.py}{26}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 7.py}{26}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 8.py}{26}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 9.py}{26}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 10.py}{27}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 11.py}{27}
-\contentsline {lstlisting}{src/chapter2/1174040\textunderscore 2err.py}{28}
-\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{28}
-\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{28}
-\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{28}
-\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{29}
-\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{29}
-\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{29}
-\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{29}
-\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{29}
-\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{30}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{30}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{30}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{30}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{31}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{31}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{31}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{31}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{31}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{31}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{31}
-\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{31}
-\contentsline {lstlisting}{src/errr2.py}{32}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 1.py}{33}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 2.py}{34}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 3.py}{34}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 4.py}{34}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 5.py}{35}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 6.py}{35}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 7.py}{35}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 8.py}{36}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 9.py}{36}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 10.py}{37}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 11.py}{37}
-\contentsline {lstlisting}{src/chapter2/1174035\textunderscore 2err.py}{38}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 1,1.py}{39}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 1,2.py}{39}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 1,3.py}{39}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 1,4.py}{39}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 1,5.py}{40}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 1,7.py}{40}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,1.py}{40}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,2.py}{40}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,3.py}{41}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,4.py}{41}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,5.py}{41}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,6.py}{41}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,7.py}{41}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,8.py}{42}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,9.py}{42}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,10.py}{42}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2,11.py}{43}
-\contentsline {lstlisting}{src/chapter2/1174042\textunderscore 2err.py}{43}
-\contentsline {lstlisting}{src/1174050\textunderscore teori.py}{44}
-\contentsline {lstlisting}{src/1174050\textunderscore teori.py}{44}
-\contentsline {lstlisting}{src/1174050\textunderscore teori.py}{44}
-\contentsline {lstlisting}{src/1174050\textunderscore teori.py}{45}
-\contentsline {lstlisting}{src/1174050\textunderscore teori.py}{45}
-\contentsline {lstlisting}{src/1174050\textunderscore teori.py}{45}
-\contentsline {lstlisting}{src/1174050\textunderscore teori.py}{45}
-\contentsline {lstlisting}{src/1174050\textunderscore teori.py}{45}
-\contentsline {lstlisting}{src/1174050\textunderscore teori.py}{46}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{46}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{46}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{46}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{46}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{47}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{47}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{47}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{47}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{47}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{47}
-\contentsline {lstlisting}{src/1174050\textunderscore praktek.py}{47}
-\contentsline {lstlisting}{src/errord1ka.py}{47}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore teori.py}{48}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore teori.py}{48}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore teori.py}{48}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore teori.py}{48}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore teori.py}{49}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore teori.py}{49}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore teori.py}{49}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore teori.py}{49}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore teori.py}{49}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{50}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{50}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{50}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{50}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{50}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{51}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{51}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{51}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{51}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{51}
-\contentsline {lstlisting}{src/chapter2/1174034\textunderscore ichsan\textunderscore praktek.py}{51}
-\contentsline {lstlisting}{src/chapter2/errorrr.py}{51}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 1.py}{54}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 2.py}{55}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 3.py}{55}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 4.py}{55}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 5.py}{55}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 6.py}{56}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 7.py}{56}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 8.py}{56}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 9.py}{56}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 10.py}{57}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 11.py}{57}
-\contentsline {lstlisting}{src/chapter2/1164081\textunderscore 2err.py}{58}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore teori1.py}{59}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore teori2.py}{60}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore teori3.py}{60}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore teori4.py}{60}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore teori5.py}{60}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore teori6.py}{60}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore teori7.py}{60}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 1.py}{60}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 2.py}{61}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 3.py}{61}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 4.py}{62}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 5.py}{62}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 6.py}{62}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 7.py}{63}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 8.py}{63}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 9.py}{64}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 10.py}{64}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore main.py}{65}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore main.py}{65}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174040\textunderscore 3err.py}{65}
-\contentsline {lstlisting}{src/chapter3/teori\textunderscore 1174043\textunderscore chap3.py}{66}
-\contentsline {lstlisting}{src/chapter3/teori\textunderscore 1174043\textunderscore chap3.py}{67}
-\contentsline {lstlisting}{src/chapter3/teori\textunderscore 1174043\textunderscore chap3.py}{67}
-\contentsline {lstlisting}{src/chapter3/teori\textunderscore 1174043\textunderscore chap3.py}{67}
-\contentsline {lstlisting}{src/chapter3/teori\textunderscore 1174043\textunderscore chap3.py}{68}
-\contentsline {lstlisting}{src/chapter3/teori\textunderscore 1174043\textunderscore chap3.py}{68}
-\contentsline {lstlisting}{src/chapter3/teori\textunderscore 1174043\textunderscore chap3.py}{68}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore no1.py}{68}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore no2.py}{69}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore no3.py}{69}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore no4.py}{69}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore no5.py}{70}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore no6.py}{71}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore no7.py}{72}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore no8.py}{73}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore no9.py}{73}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore no10.py}{74}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore 3lib.py}{75}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore main.py}{79}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore kelas3lib.py}{79}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174043\textunderscore 3err.py}{82}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore teori.py}{83}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore teori.py}{83}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore teori.py}{83}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore teori.py}{84}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore teori.py}{84}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore teori.py}{84}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore teori.py}{84}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 1.py}{85}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 2.py}{86}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 3.py}{86}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 4.py}{87}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 5.py}{87}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 6.py}{88}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 7.py}{89}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 8.py}{89}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 9.py}{90}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 10.py}{90}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore 3lib.py}{90}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore main.py}{93}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore kelas3lib.py}{93}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore main.py}{96}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore error.py}{96}
-\contentsline {lstlisting}{src/chapter3/chap3\textunderscore 1174035\textunderscore main.py}{98}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{99}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{99}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{99}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{99}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{99}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{100}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{100}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{100}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{101}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{102}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{102}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{102}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{103}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{103}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{103}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{103}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{103}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{104}
-\contentsline {lstlisting}{src/mainn.py}{104}
-\contentsline {lstlisting}{src/mainn.py}{104}
-\contentsline {lstlisting}{src/1174056\textunderscore praktek.py}{104}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 1,1.py}{105}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 1,1,1.py}{105}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 1,1,2.py}{105}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 1,2.py}{105}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 1,3.py}{105}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 1,4.py}{106}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 1,2.py}{106}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 1,6.py}{106}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 1,6.py}{106}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2,1.py}{107}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2,2.py}{107}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2,3.py}{107}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2,4.py}{108}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2,5.py}{108}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2,6.py}{108}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2,7.py}{109}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2,8.py}{109}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2,9.py}{109}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2,10.py}{110}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore main.py}{110}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore main.py}{110}
-\contentsline {lstlisting}{src/chapter3/1174042\textunderscore 2err.py}{111}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 1.py}{111}
-\contentsline {lstlisting}{src/chapter2/1164089/Matematika.py}{111}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 2.py}{112}
-\contentsline {lstlisting}{src/chapter2/1164089/mtk.py}{112}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 3.py}{112}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 4.py}{113}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 5.py}{113}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 21.py}{114}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 22.py}{114}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 23.py}{115}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 24.py}{115}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 25.py}{115}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 26.py}{115}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 27.py}{115}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 28.py}{116}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 29.py}{116}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 30.py}{116}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 31.py}{116}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 32.py}{116}
-\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 33.py}{117}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{117}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{117}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{117}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{118}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{118}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{118}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{118}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{118}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{119}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{119}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{119}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{119}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{119}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{119}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{120}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{121}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{121}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{121}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{121}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{121}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{122}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{122}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{122}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{122}
-\contentsline {lstlisting}{src/chapter3/1164074/3lib.py}{122}
-\contentsline {lstlisting}{src/chapter3/1164074/main.py}{125}
-\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{125}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{126}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{126}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{126}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{126}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{126}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{127}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{127}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{127}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{128}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{129}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{129}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{130}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{130}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{130}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{130}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{130}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{131}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore praktek.py}{131}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore maiiinn.py}{131}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore errord1ka.py}{131}
-\contentsline {lstlisting}{src/chapter3/1174050\textunderscore errord1ka.py}{132}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 1.py}{132}
-\contentsline {lstlisting}{src/chapter3/1164081/Matematika.py}{132}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 2.py}{132}
-\contentsline {lstlisting}{src/chapter3/1164081/contoh.py}{133}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 3.py}{133}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 4.py}{133}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 5.py}{134}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 21.py}{134}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 22.py}{135}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 23.py}{135}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 24.py}{135}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 25.py}{135}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 26.py}{135}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 27.py}{136}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 28.py}{136}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 29.py}{136}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 30.py}{136}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 31.py}{136}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 32.py}{137}
-\contentsline {lstlisting}{src/chapter3/1164081/1164081\textunderscore 33.py}{137}
-\contentsline {lstlisting}{src/chapter4/chap4\textunderscore 1174035\textunderscore teori.py}{145}
-\contentsline {lstlisting}{src/chapter4/chap4\textunderscore 1174035\textunderscore teori.py}{146}
-\contentsline {lstlisting}{src/chapter4/1174042\textunderscore csv.py}{148}
-\contentsline {lstlisting}{src/chapter4/1174042\textunderscore csv.py}{148}
-\contentsline {lstlisting}{src/chapter4/1174042\textunderscore csv.py}{148}
-\contentsline {lstlisting}{src/chapter4/1174042\textunderscore csv.py}{149}
-\contentsline {lstlisting}{src/chapter4/coba.csv}{149}
-\contentsline {lstlisting}{src/chapter4/coba.csv}{150}
-\contentsline {lstlisting}{src/chapter4/coba.csv}{151}
-\contentsline {lstlisting}{src/chapter4/coba.csv}{151}
-\contentsline {lstlisting}{src/chapter4/coba.csv}{151}
-\contentsline {lstlisting}{src/chapter4/coba.csv}{151}
-\contentsline {lstlisting}{src/chapter4/coba.csv}{152}
-\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore csv.py}{152}
-\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore csv.py}{152}
-\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore pandas.py}{152}
-\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore pandas.py}{153}
-\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore pandas.py}{153}
-\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore pandas.py}{153}
-\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore pandas.py}{153}
-\contentsline {lstlisting}{src/chapter4/1164074/main.py}{153}
-\contentsline {lstlisting}{src/chapter4/1164074/main2.py}{153}
-\contentsline {lstlisting}{src/chapter4/1164074/1164074\textunderscore Error.py}{154}
-\contentsline {lstlisting}{src/chapter4/1164074/1164074\textunderscore Error.py}{154}
-\contentsline {lstlisting}{src/teoric4.py}{154}
-\contentsline {lstlisting}{src/teoric4.py}{154}
-\contentsline {lstlisting}{src/teoric4.py}{154}
-\contentsline {lstlisting}{src/teoric4.py}{155}
-\contentsline {lstlisting}{src/teoric4.py}{155}
-\contentsline {lstlisting}{src/teoric4.py}{155}
-\contentsline {lstlisting}{src/teoric4.py}{155}
-\contentsline {lstlisting}{src/chapter4/1164089.py}{157}
-\contentsline {lstlisting}{src/chapter4/1164089.py}{157}
-\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore csv.py}{158}
-\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore csv.py}{158}
-\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{158}
-\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{158}
-\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{159}
-\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{159}
-\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{159}
-\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore main.py}{159}
-\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore main2.py}{159}
-\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{160}
-\contentsline {lstlisting}{src/chapter4/1174057csvpandas.py}{162}
-\contentsline {lstlisting}{src/chapter4/1174057csvpandas.py}{162}
-\contentsline {lstlisting}{src/chapter4/1174057csvpandas.py}{162}
-\contentsline {lstlisting}{src/chapter4/1174057csvpandas.py}{162}
-\contentsline {lstlisting}{\numberline {4.1}Fungsi untuk membuka file CSV dengan lib CSV mode list.}{162}
-\contentsline {lstlisting}{\numberline {4.2}Fungsi untuk membuka file CSV dengan lib CSV mode dictionary.}{163}
-\contentsline {lstlisting}{\numberline {4.3}Fungsi untuk membuka file CSV dengan lib Pandas mode list.}{163}
-\contentsline {lstlisting}{\numberline {4.4}Fungsi untuk membuka file CSV dengan lib Pandas mode dictionary.}{163}
-\contentsline {lstlisting}{\numberline {4.5}Fungsi untuk mengubah format tanggal menjadi standar dataframe.}{163}
-\contentsline {lstlisting}{\numberline {4.6}Fungsi untuk mengubah index kolom.}{163}
-\contentsline {lstlisting}{\numberline {4.7}Fungsi untuk mengubah atribut atau nama kolom.}{164}
-\contentsline {lstlisting}{\numberline {4.8}Membuat dan mebaca file CSV menggunakan library 1174006pandas.}{164}
-\contentsline {lstlisting}{\numberline {4.9}Membuat dan mmebaca file CSV menggunakan library 1174006pandas.}{164}
-\contentsline {lstlisting}{src/chapter4/1174057/1174057\textunderscore error.py}{164}
-\contentsline {lstlisting}{src/teoric4.py}{165}
-\contentsline {lstlisting}{src/teoric4.py}{165}
-\contentsline {lstlisting}{src/teoric4.py}{165}
-\contentsline {lstlisting}{src/teoric4.py}{165}
-\contentsline {lstlisting}{src/teoric4.py}{166}
-\contentsline {lstlisting}{src/teoric4.py}{166}
-\contentsline {lstlisting}{src/teoric4.py}{166}
-\contentsline {lstlisting}{src/chapter4/1174057/1174057\textunderscore error.py}{166}
-\contentsline {lstlisting}{\numberline {4.10}Fungsi untuk membuka file CSV dengan lib CSV mode list.}{167}
-\contentsline {lstlisting}{\numberline {4.11}Fungsi untuk membuka file CSV dengan lib CSV mode dictionary.}{167}
-\contentsline {lstlisting}{\numberline {4.12}Fungsi untuk membuka file CSV dengan lib Pandas mode list.}{167}
-\contentsline {lstlisting}{\numberline {4.13}Fungsi untuk membuka file CSV dengan lib Pandas mode dictionary.}{167}
-\contentsline {lstlisting}{\numberline {4.14}Fungsi untuk mengubah format tanggal menjadi standar dataframe.}{167}
-\contentsline {lstlisting}{\numberline {4.15}Fungsi untuk mengubah index kolom.}{168}
-\contentsline {lstlisting}{\numberline {4.16}Fungsi untuk mengubah atribut atau nama kolom.}{168}
-\contentsline {lstlisting}{\numberline {4.17}Membuat dan mebaca file CSV menggunakan library 1174006pandas.}{168}
-\contentsline {lstlisting}{\numberline {4.18}Membuat dan mmebaca file CSV menggunakan library 1174006pandas.}{168}
-\contentsline {lstlisting}{src/chapter4/1174063/1174063\textunderscore 2err.py}{168}
-\contentsline {lstlisting}{\numberline {5.1}Fungsi yang menggunakan pyserial.}{174}
-\contentsline {lstlisting}{\numberline {5.2}Fungsi untuk mendapatkan data dari Arduino.}{174}
-\contentsline {lstlisting}{\numberline {5.3}Fungsi untuk mendapatkan data langsung dari Arduino dengan looping.}{174}
-\contentsline {lstlisting}{\numberline {5.4}Fungsi untuk mendapatkan data dari Arduino dan langsung ditulis kedalam file CSV.}{175}
-\contentsline {lstlisting}{\numberline {5.5}Fungsi untuk membaca file CSV hasil Arduino dan mengembalikan fungsi.}{175}
-\contentsline {lstlisting}{\numberline {5.6}Fungsi untuk menanggulangi error menggunakan Try Except.}{176}
-\contentsline {lstlisting}{\numberline {5.7}Fungsi yang menggunakan pyserial.}{181}
-\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{181}
-\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{181}
-\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{182}
-\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{182}
-\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{182}
-\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{182}
-\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{182}
-\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore realtime.py}{183}
-\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore save.py}{183}
-\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore realtimekecsv.py}{183}
-\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore csv.py}{183}
-\contentsline {lstlisting}{src/chapter5/penangananerror/1174059\textunderscore notiferror.py}{184}
-\contentsline {lstlisting}{src/chapter5/1164089/1164089\textunderscore Teori.py}{186}
+\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{19}
+\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{19}
+\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{19}
+\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{19}
+\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{19}
+\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{20}
+\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{20}
+\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{20}
+\contentsline {lstlisting}{src/1174063\textunderscore teori.py}{20}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{20}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{21}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{21}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{21}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{21}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{21}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{22}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{22}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{22}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{22}
+\contentsline {lstlisting}{src/1174063\textunderscore praktek.py}{22}
+\contentsline {lstlisting}{src/errr2.py}{22}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 1.py}{23}
+\contentsline {lstlisting}{src/chapter2/1164089/Matematika.py}{24}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 2.py}{24}
+\contentsline {lstlisting}{src/chapter2/1164089/mtk.py}{24}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 3.py}{25}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 4.py}{25}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 5.py}{25}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 21.py}{26}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 22.py}{27}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 23.py}{27}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 24.py}{27}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 25.py}{27}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 26.py}{27}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 27.py}{28}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 28.py}{28}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 29.py}{28}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 30.py}{28}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 31.py}{29}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 32.py}{29}
+\contentsline {lstlisting}{src/chapter2/1164089/1164089\textunderscore 33.py}{29}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{29}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{30}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{30}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{30}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{30}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{30}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{31}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{31}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{31}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{31}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{31}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{31}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{32}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{32}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{32}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{33}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{33}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{33}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{34}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{34}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{34}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{34}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{34}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{34}
+\contentsline {lstlisting}{src/chapter3/1164074/3lib.py}{35}
+\contentsline {lstlisting}{src/chapter3/1164074/main.py}{37}
+\contentsline {lstlisting}{src/chapter3/1164074/praktek.py}{38}
+\contentsline {lstlisting}{src/chapter4/coba.csv}{40}
+\contentsline {lstlisting}{src/chapter4/coba.csv}{41}
+\contentsline {lstlisting}{src/chapter4/coba.csv}{41}
+\contentsline {lstlisting}{src/chapter4/coba.csv}{41}
+\contentsline {lstlisting}{src/chapter4/coba.csv}{42}
+\contentsline {lstlisting}{src/chapter4/coba.csv}{42}
+\contentsline {lstlisting}{src/chapter4/coba.csv}{42}
+\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore csv.py}{43}
+\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore csv.py}{43}
+\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore pandas.py}{43}
+\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore pandas.py}{43}
+\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore pandas.py}{43}
+\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore pandas.py}{43}
+\contentsline {lstlisting}{src/chapter4/1164074/c4\textunderscore 1164074\textunderscore pandas.py}{43}
+\contentsline {lstlisting}{src/chapter4/1164074/main.py}{44}
+\contentsline {lstlisting}{src/chapter4/1164074/main2.py}{44}
+\contentsline {lstlisting}{src/chapter4/1164074/1164074\textunderscore Error.py}{44}
+\contentsline {lstlisting}{src/chapter4/1164074/1164074\textunderscore Error.py}{44}
+\contentsline {lstlisting}{src/teoric4.py}{44}
+\contentsline {lstlisting}{src/teoric4.py}{45}
+\contentsline {lstlisting}{src/teoric4.py}{45}
+\contentsline {lstlisting}{src/teoric4.py}{45}
+\contentsline {lstlisting}{src/teoric4.py}{45}
+\contentsline {lstlisting}{src/teoric4.py}{46}
+\contentsline {lstlisting}{src/teoric4.py}{46}
+\contentsline {lstlisting}{src/chapter4/1164089.py}{47}
+\contentsline {lstlisting}{src/chapter4/1164089.py}{48}
+\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore csv.py}{48}
+\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore csv.py}{49}
+\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{49}
+\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{49}
+\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{49}
+\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{49}
+\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{49}
+\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore main.py}{50}
+\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore main2.py}{50}
+\contentsline {lstlisting}{src/chapter4/1164089/1164089\textunderscore pandas.py}{50}
+\contentsline {lstlisting}{src/chapter4/1174057csvpandas.py}{52}
+\contentsline {lstlisting}{src/chapter4/1174057csvpandas.py}{52}
+\contentsline {lstlisting}{src/chapter4/1174057csvpandas.py}{52}
+\contentsline {lstlisting}{src/chapter4/1174057csvpandas.py}{53}
+\contentsline {lstlisting}{\numberline {4.1}Fungsi untuk membuka file CSV dengan lib CSV mode list.}{53}
+\contentsline {lstlisting}{\numberline {4.2}Fungsi untuk membuka file CSV dengan lib CSV mode dictionary.}{53}
+\contentsline {lstlisting}{\numberline {4.3}Fungsi untuk membuka file CSV dengan lib Pandas mode list.}{53}
+\contentsline {lstlisting}{\numberline {4.4}Fungsi untuk membuka file CSV dengan lib Pandas mode dictionary.}{54}
+\contentsline {lstlisting}{\numberline {4.5}Fungsi untuk mengubah format tanggal menjadi standar dataframe.}{54}
+\contentsline {lstlisting}{\numberline {4.6}Fungsi untuk mengubah index kolom.}{54}
+\contentsline {lstlisting}{\numberline {4.7}Fungsi untuk mengubah atribut atau nama kolom.}{54}
+\contentsline {lstlisting}{\numberline {4.8}Membuat dan mebaca file CSV menggunakan library 1174006pandas.}{54}
+\contentsline {lstlisting}{\numberline {4.9}Membuat dan mmebaca file CSV menggunakan library 1174006pandas.}{55}
+\contentsline {lstlisting}{src/chapter4/1174057/1174057\textunderscore error.py}{55}
+\contentsline {lstlisting}{src/teoric4.py}{55}
+\contentsline {lstlisting}{src/teoric4.py}{55}
+\contentsline {lstlisting}{src/teoric4.py}{55}
+\contentsline {lstlisting}{src/teoric4.py}{56}
+\contentsline {lstlisting}{src/teoric4.py}{56}
+\contentsline {lstlisting}{src/teoric4.py}{56}
+\contentsline {lstlisting}{src/teoric4.py}{57}
+\contentsline {lstlisting}{src/chapter4/1174057/1174057\textunderscore error.py}{57}
+\contentsline {lstlisting}{\numberline {4.10}Fungsi untuk membuka file CSV dengan lib CSV mode list.}{57}
+\contentsline {lstlisting}{\numberline {4.11}Fungsi untuk membuka file CSV dengan lib CSV mode dictionary.}{57}
+\contentsline {lstlisting}{\numberline {4.12}Fungsi untuk membuka file CSV dengan lib Pandas mode list.}{58}
+\contentsline {lstlisting}{\numberline {4.13}Fungsi untuk membuka file CSV dengan lib Pandas mode dictionary.}{58}
+\contentsline {lstlisting}{\numberline {4.14}Fungsi untuk mengubah format tanggal menjadi standar dataframe.}{58}
+\contentsline {lstlisting}{\numberline {4.15}Fungsi untuk mengubah index kolom.}{58}
+\contentsline {lstlisting}{\numberline {4.16}Fungsi untuk mengubah atribut atau nama kolom.}{58}
+\contentsline {lstlisting}{\numberline {4.17}Membuat dan mebaca file CSV menggunakan library 1174006pandas.}{59}
+\contentsline {lstlisting}{\numberline {4.18}Membuat dan mmebaca file CSV menggunakan library 1174006pandas.}{59}
+\contentsline {lstlisting}{src/chapter4/1174063/1174063\textunderscore 2err.py}{59}
+\contentsline {lstlisting}{\numberline {5.1}Fungsi yang menggunakan pyserial.}{64}
+\contentsline {lstlisting}{\numberline {5.2}Fungsi untuk mendapatkan data dari Arduino.}{64}
+\contentsline {lstlisting}{\numberline {5.3}Fungsi untuk mendapatkan data langsung dari Arduino dengan looping.}{64}
+\contentsline {lstlisting}{\numberline {5.4}Fungsi untuk mendapatkan data dari Arduino dan langsung ditulis kedalam file CSV.}{65}
+\contentsline {lstlisting}{\numberline {5.5}Fungsi untuk membaca file CSV hasil Arduino dan mengembalikan fungsi.}{65}
+\contentsline {lstlisting}{\numberline {5.6}Fungsi untuk menanggulangi error menggunakan Try Except.}{66}
+\contentsline {lstlisting}{\numberline {5.7}Fungsi yang menggunakan pyserial.}{71}
+\contentsline {lstlisting}{src/chapter5/praktek/c4\textunderscore 1164074\textunderscore realtime.py}{71}
+\contentsline {lstlisting}{src/chapter5/praktek/c4\textunderscore 1164074\textunderscore save.py}{71}
+\contentsline {lstlisting}{src/chapter5/praktek/c4\textunderscore 1164074\textunderscore realtime.py}{71}
+\contentsline {lstlisting}{src/chapter5/praktek/c4\textunderscore 1164074\textunderscore csv.py}{72}
+\contentsline {lstlisting}{src/chapter5/penangananerror/c4\textunderscore 1164074\textunderscore EH.py}{72}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{72}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{72}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{73}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{73}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{73}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{73}
+\contentsline {lstlisting}{src/chapter5/teori/1174059.py}{74}
+\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore realtime.py}{74}
+\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore save.py}{74}
+\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore realtimekecsv.py}{74}
+\contentsline {lstlisting}{src/chapter5/praktek/1174059\textunderscore csv.py}{75}
+\contentsline {lstlisting}{src/chapter5/penangananerror/1174059\textunderscore notiferror.py}{75}
+\contentsline {lstlisting}{src/chapter5/1164089/1164089\textunderscore Teori.py}{77}
+\contentsline {lstlisting}{src/chapter5/1164089/1164089\textunderscore realtime.py}{77}
+\contentsline {lstlisting}{src/chapter5/1164089/1164089\textunderscore save.py}{78}
+\contentsline {lstlisting}{src/chapter5/1164089/1164089\textunderscore realtime.py}{78}
+\contentsline {lstlisting}{src/chapter5/1164089/1164089csv.py}{78}
+\contentsline {lstlisting}{src/chapter5/1164089/1164089\textunderscore tryExcept.py}{79}
+\contentsline {lstlisting}{\numberline {5.8}Fungsi untuk mendapatkan data dari Arduino.}{79}
+\contentsline {lstlisting}{\numberline {5.9}Fungsi untuk mendapatkan data langsung dari Arduino dengan looping.}{79}
+\contentsline {lstlisting}{\numberline {5.10}Fungsi untuk mendapatkan data dari Arduino dan langsung ditulis kedalam file CSV.}{80}
+\contentsline {lstlisting}{\numberline {5.11}Fungsi untuk membaca file CSV hasil Arduino dan mengembalikan fungsi.}{80}
+\contentsline {lstlisting}{\numberline {5.12}Fungsi untuk menanggulangi error menggunakan Try Except.}{81}
+\contentsline {lstlisting}{src/chapter6/1174057/1174057.py}{91}
+\contentsline {lstlisting}{src/chapter6/1174057/1174057.py}{92}
+\contentsline {lstlisting}{src/chapter6/1174057/1174057.py}{92}
+\contentsline {lstlisting}{src/chapter6/1174057/1174057.py}{92}
+\contentsline {lstlisting}{\numberline {6.1}Kode program membuat diagram menggunakan Matplotlib.}{92}
+\contentsline {lstlisting}{\numberline {6.2}Kode program membuat bar graph menggunakan Matplotlib.}{92}
+\contentsline {lstlisting}{\numberline {6.3}Kode program membuat histogram menggunakan Matplotlib.}{93}
+\contentsline {lstlisting}{\numberline {6.4}Kode program membuat scatter plot menggunakan Matplotlib.}{93}
+\contentsline {lstlisting}{\numberline {6.5}Kode program membuat diagram menggunakan Matplotlib.}{94}
+\contentsline {lstlisting}{\numberline {6.6}Kode program membuat Pie Plot menggunakan Matplotlib.}{94}
+\contentsline {lstlisting}{\numberline {6.7}Kode program membuat diagram menggunakan Matplotlib.}{95}
+\contentsline {lstlisting}{\numberline {6.8}Kode program menggunakan parameter label dengan Matplotlib.}{95}
+\contentsline {lstlisting}{\numberline {6.9}Kode program memanggil fungsi legend dengan Matplotlib.}{95}
+\contentsline {lstlisting}{\numberline {6.10}Kode program membuat diagram menggunakan Matplotlib.}{95}
+\contentsline {lstlisting}{\numberline {6.11}Kode program membuat subplot menggunakan Matplotlib.}{96}
+\contentsline {lstlisting}{\numberline {6.12}Kode program membuat diagram menggunakan Matplotlib.}{97}
+\contentsline {lstlisting}{\numberline {6.13}Kode program membuat fungsi Bar Plot menggunakan Matplotlib.}{97}
+\contentsline {lstlisting}{\numberline {6.14}Kode program membuat fungsi Scatter Plot menggunakan Matplotlib.}{98}
+\contentsline {lstlisting}{\numberline {6.15}Kode program membuat fungsi Pie Plot menggunakan Matplotlib.}{99}
+\contentsline {lstlisting}{\numberline {6.16}Kode program membuat fungsi Plot menggunakan Matplotlib.}{99}
+\contentsline {lstlisting}{\numberline {6.17}Kode program membuat fungsi penanganan error.}{100}
+\contentsline {lstlisting}{src/chapter6/1164074/code.py}{101}
+\contentsline {lstlisting}{\numberline {6.18}Jenis Garis}{101}
+\contentsline {lstlisting}{\numberline {6.19}Jenis Titik}{102}
+\contentsline {lstlisting}{\numberline {6.20}Jenis Batang}{102}
+\contentsline {lstlisting}{\numberline {6.21}Jenis Pie}{102}
+\contentsline {lstlisting}{\numberline {6.22}Code penggunaan Legend pada Matplotlib}{102}
+\contentsline {lstlisting}{\numberline {6.23}Code penggunaan Label pada Matplotlib}{102}
+\contentsline {lstlisting}{\numberline {6.24}Code penggunaan Subplot pada Matplotlib}{103}
+\contentsline {lstlisting}{\numberline {6.25}Code penggunaan Subplot pada Matplotlib}{104}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{105}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{105}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{105}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{105}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{105}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{106}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{106}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{106}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{107}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{107}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{108}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{108}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{108}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{108}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{108}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{109}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089\textunderscore bar.py}{110}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089\textunderscore scatter.py}{110}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089\textunderscore pie.py}{111}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089\textunderscore plot.py}{111}
+\contentsline {lstlisting}{src/chapter6/1164089/1164089.py}{112}
+\contentsline {lstlisting}{src/chapter6/teori/1174059.py}{112}
+\contentsline {lstlisting}{src/chapter6/teori/1174059.py}{113}
+\contentsline {lstlisting}{src/chapter6/teori/1174059.py}{113}
+\contentsline {lstlisting}{src/chapter6/teori/1174059.py}{113}
+\contentsline {lstlisting}{src/chapter6/teori/1174059.py}{113}
+\contentsline {lstlisting}{src/chapter6/teori/1174059.py}{113}
+\contentsline {lstlisting}{src/chapter6/teori/1174059.py}{114}
+\contentsline {lstlisting}{src/chapter6/teori/1174059.py}{114}
+\contentsline {lstlisting}{src/chapter6/teori/1174059.py}{114}
+\contentsline {lstlisting}{src/chapter6/teori/1174059.py}{115}

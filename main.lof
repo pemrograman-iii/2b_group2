@@ -1,63 +1,66 @@
-\contentsline {figure}{\numberline {3.1\relax }{\ignorespaces No. 1}}{61}
-\contentsline {figure}{\numberline {3.2\relax }{\ignorespaces No. 2}}{62}
-\contentsline {figure}{\numberline {3.3\relax }{\ignorespaces No. 3}}{62}
-\contentsline {figure}{\numberline {3.4\relax }{\ignorespaces No. 4}}{62}
-\contentsline {figure}{\numberline {3.5\relax }{\ignorespaces No. 5}}{63}
-\contentsline {figure}{\numberline {3.6\relax }{\ignorespaces No. 6}}{63}
-\contentsline {figure}{\numberline {3.7\relax }{\ignorespaces No. 7}}{63}
-\contentsline {figure}{\numberline {3.8\relax }{\ignorespaces Gambar 8}}{64}
-\contentsline {figure}{\numberline {3.9\relax }{\ignorespaces No. 9}}{64}
-\contentsline {figure}{\numberline {3.10\relax }{\ignorespaces No. 10}}{65}
-\contentsline {figure}{\numberline {3.11\relax }{\ignorespaces No. 11}}{65}
-\contentsline {figure}{\numberline {3.12\relax }{\ignorespaces No. 12}}{66}
-\contentsline {figure}{\numberline {3.13\relax }{\ignorespaces Cek Plagiarisme}}{66}
-\contentsline {figure}{\numberline {3.14\relax }{\ignorespaces Jawaban No. 1}}{69}
-\contentsline {figure}{\numberline {3.15\relax }{\ignorespaces Jawaban No. 2}}{70}
-\contentsline {figure}{\numberline {3.16\relax }{\ignorespaces Jawaban No. 3}}{71}
-\contentsline {figure}{\numberline {3.17\relax }{\ignorespaces Jawaban No. 4}}{72}
-\contentsline {figure}{\numberline {3.18\relax }{\ignorespaces Jawaban No. 5}}{73}
-\contentsline {figure}{\numberline {3.19\relax }{\ignorespaces Jawaban No. 6}}{74}
-\contentsline {figure}{\numberline {3.20\relax }{\ignorespaces Jawaban No. 7}}{75}
-\contentsline {figure}{\numberline {3.21\relax }{\ignorespaces Jawaban No. 8}}{76}
-\contentsline {figure}{\numberline {3.22\relax }{\ignorespaces Jawaban No. 9}}{77}
-\contentsline {figure}{\numberline {3.23\relax }{\ignorespaces Jawaban No. 10}}{78}
-\contentsline {figure}{\numberline {3.24\relax }{\ignorespaces Jawaban No. 11}}{80}
-\contentsline {figure}{\numberline {3.25\relax }{\ignorespaces Hasil Cek Plagiarisme}}{83}
-\contentsline {figure}{\numberline {3.26\relax }{\ignorespaces Screenshot No 1}}{85}
-\contentsline {figure}{\numberline {3.27\relax }{\ignorespaces Screenshot No 2}}{86}
-\contentsline {figure}{\numberline {3.28\relax }{\ignorespaces Screenshot No 3}}{87}
-\contentsline {figure}{\numberline {3.29\relax }{\ignorespaces Screenshot No 4}}{87}
-\contentsline {figure}{\numberline {3.30\relax }{\ignorespaces Screenshot No 5}}{88}
-\contentsline {figure}{\numberline {3.31\relax }{\ignorespaces Screenshot No 6}}{88}
-\contentsline {figure}{\numberline {3.32\relax }{\ignorespaces Screenshot No 7}}{89}
-\contentsline {figure}{\numberline {3.33\relax }{\ignorespaces Screenshot No 8}}{89}
-\contentsline {figure}{\numberline {3.34\relax }{\ignorespaces Screenshot No 9}}{90}
-\contentsline {figure}{\numberline {3.35\relax }{\ignorespaces Screenshot No 10}}{91}
-\contentsline {figure}{\numberline {3.36\relax }{\ignorespaces Screenshot No 11}}{94}
-\contentsline {figure}{\numberline {3.37\relax }{\ignorespaces Screenshot No 12}}{97}
-\contentsline {figure}{\numberline {3.38\relax }{\ignorespaces Screenshot No 13}}{98}
-\contentsline {figure}{\numberline {3.39\relax }{\ignorespaces Plagiarisme}}{98}
-\contentsline {figure}{\numberline {4.1\relax }{\ignorespaces Contoh CSV}}{140}
-\contentsline {figure}{\numberline {4.2\relax }{\ignorespaces Contoh CSV}}{141}
-\contentsline {figure}{\numberline {4.3\relax }{\ignorespaces Contoh CSV Pada Excel}}{144}
-\contentsline {figure}{\numberline {4.4\relax }{\ignorespaces Contoh CSV Pada Text}}{144}
-\contentsline {figure}{\numberline {4.5\relax }{\ignorespaces hasil csv pada Excel}}{152}
-\contentsline {figure}{\numberline {4.6\relax }{\ignorespaces Contoh File CSV}}{156}
-\contentsline {figure}{\numberline {4.7\relax }{\ignorespaces Atribute Error}}{160}
-\contentsline {figure}{\numberline {4.8\relax }{\ignorespaces Atribute Error}}{160}
-\contentsline {figure}{\numberline {5.1\relax }{\ignorespaces Hasil cek plagiat}}{187}
-\contentsline {figure}{\numberline {5.2\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk mendapatkan data dari Arduino dengan looping.}}{187}
-\contentsline {figure}{\numberline {5.3\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk mendapatkan data dari Arduino dan langsung ditulis kedalam file CSV.}}{187}
-\contentsline {figure}{\numberline {5.4\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk membaca file csv hasil arduino dan mengembalikan fungsi.}}{188}
-\contentsline {figure}{\numberline {5.5\relax }{\ignorespaces Hasil pembacaan fungsi untuk menanggulangi error menggunakan Try Except.}}{188}
-\contentsline {figure}{\numberline {5.6\relax }{\ignorespaces Hasil cek plagiat.}}{188}
-\contentsline {figure}{\numberline {5.7\relax }{\ignorespaces Check Plagiarisme}}{188}
-\contentsline {figure}{\numberline {5.8\relax }{\ignorespaces Memasang Port USB.}}{189}
-\contentsline {figure}{\numberline {5.9\relax }{\ignorespaces Mencari Device Manager.}}{189}
-\contentsline {figure}{\numberline {5.10\relax }{\ignorespaces Unknown Device.}}{189}
-\contentsline {figure}{\numberline {5.11\relax }{\ignorespaces Update Driver Software.}}{190}
-\contentsline {figure}{\numberline {5.12\relax }{\ignorespaces Browse my computer for driver software.}}{190}
-\contentsline {figure}{\numberline {5.13\relax }{\ignorespaces Open Folder Arduino.}}{190}
-\contentsline {figure}{\numberline {5.14\relax }{\ignorespaces Install.}}{190}
-\contentsline {figure}{\numberline {5.15\relax }{\ignorespaces Fungsi Pyserial.}}{191}
-\contentsline {figure}{\numberline {5.16\relax }{\ignorespaces Cek Plagiat.}}{191}
+\contentsline {figure}{\numberline {4.1\relax }{\ignorespaces hasil csv pada Excel}}{42}
+\contentsline {figure}{\numberline {4.2\relax }{\ignorespaces Contoh File CSV}}{47}
+\contentsline {figure}{\numberline {4.3\relax }{\ignorespaces Atribute Error}}{50}
+\contentsline {figure}{\numberline {4.4\relax }{\ignorespaces Atribute Error}}{50}
+\contentsline {figure}{\numberline {5.1\relax }{\ignorespaces Hasil cek plagiat}}{82}
+\contentsline {figure}{\numberline {5.2\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk mendapatkan data dari Arduino dengan looping.}}{82}
+\contentsline {figure}{\numberline {5.3\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk mendapatkan data dari Arduino dan langsung ditulis kedalam file CSV.}}{82}
+\contentsline {figure}{\numberline {5.4\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk membaca file csv hasil arduino dan mengembalikan fungsi.}}{83}
+\contentsline {figure}{\numberline {5.5\relax }{\ignorespaces Hasil pembacaan fungsi untuk menanggulangi error menggunakan Try Except.}}{83}
+\contentsline {figure}{\numberline {5.6\relax }{\ignorespaces Hasil cek plagiat.}}{83}
+\contentsline {figure}{\numberline {5.7\relax }{\ignorespaces Check Plagiarisme}}{83}
+\contentsline {figure}{\numberline {5.8\relax }{\ignorespaces Memasang Port USB.}}{84}
+\contentsline {figure}{\numberline {5.9\relax }{\ignorespaces Mencari Device Manager.}}{84}
+\contentsline {figure}{\numberline {5.10\relax }{\ignorespaces Unknown Device.}}{84}
+\contentsline {figure}{\numberline {5.11\relax }{\ignorespaces Update Driver Software.}}{85}
+\contentsline {figure}{\numberline {5.12\relax }{\ignorespaces Browse my computer for driver software.}}{85}
+\contentsline {figure}{\numberline {5.13\relax }{\ignorespaces Open Folder Arduino.}}{85}
+\contentsline {figure}{\numberline {5.14\relax }{\ignorespaces Install.}}{85}
+\contentsline {figure}{\numberline {5.15\relax }{\ignorespaces Fungsi Pyserial.}}{86}
+\contentsline {figure}{\numberline {5.16\relax }{\ignorespaces Cek Plagiat.}}{86}
+\contentsline {figure}{\numberline {5.17\relax }{\ignorespaces Hasil Data Yang Diambil Dari Arduino.}}{86}
+\contentsline {figure}{\numberline {5.18\relax }{\ignorespaces Hasil Data Pengulanganl Dari Arduino.}}{87}
+\contentsline {figure}{\numberline {5.19\relax }{\ignorespaces Membuat File CSV.}}{88}
+\contentsline {figure}{\numberline {5.20\relax }{\ignorespaces Membaca File CSV.}}{88}
+\contentsline {figure}{\numberline {5.21\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk mendapatkan data dari Arduino.}}{88}
+\contentsline {figure}{\numberline {5.22\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk mendapatkan data dari Arduino dengan looping.}}{89}
+\contentsline {figure}{\numberline {5.23\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk mendapatkan data dari Arduino dan langsung ditulis kedalam file CSV.}}{89}
+\contentsline {figure}{\numberline {5.24\relax }{\ignorespaces Hasil dari pembacaan fungsi untuk membaca file csv hasil arduino dan mengembalikan fungsi.}}{89}
+\contentsline {figure}{\numberline {5.25\relax }{\ignorespaces Hasil pembacaan fungsi untuk menanggulangi error menggunakan Try Except.}}{90}
+\contentsline {figure}{\numberline {6.1\relax }{\ignorespaces Hasil compile membuat diagram menggunakan Matplotlib.}}{117}
+\contentsline {figure}{\numberline {6.2\relax }{\ignorespaces Hasil compile membuat bar graph menggunakan Matplotlib.}}{117}
+\contentsline {figure}{\numberline {6.3\relax }{\ignorespaces Hasil compile membuat histogram menggunakan Matplotlib.}}{118}
+\contentsline {figure}{\numberline {6.4\relax }{\ignorespaces Hasil compile membuat scatter plot menggunakan Matplotlib.}}{119}
+\contentsline {figure}{\numberline {6.5\relax }{\ignorespaces Hasil compile membuat diagram menggunakan Matplotlib.}}{120}
+\contentsline {figure}{\numberline {6.6\relax }{\ignorespaces Hasil compile membuat Pie Plot menggunakan Matplotlib.}}{120}
+\contentsline {figure}{\numberline {6.7\relax }{\ignorespaces Hasil compile membuat diagram menggunakan Matplotlib.}}{121}
+\contentsline {figure}{\numberline {6.8\relax }{\ignorespaces Hasil compile membuat diagram menggunakan Matplotlib.}}{121}
+\contentsline {figure}{\numberline {6.9\relax }{\ignorespaces Hasil compile membuat subplot menggunakan Matplotlib.}}{122}
+\contentsline {figure}{\numberline {6.10\relax }{\ignorespaces Hasil compile membuat diagram menggunakan Matplotlib.}}{123}
+\contentsline {figure}{\numberline {6.11\relax }{\ignorespaces Hasil compile membuat fungsi Bar Plot menggunakan Matplotlib.}}{123}
+\contentsline {figure}{\numberline {6.12\relax }{\ignorespaces Hasil compile membuat fungsi Scatter Plot menggunakan Matplotlib.}}{124}
+\contentsline {figure}{\numberline {6.13\relax }{\ignorespaces Hasil compile membuat fungsi Pie Plot menggunakan Matplotlib.}}{124}
+\contentsline {figure}{\numberline {6.14\relax }{\ignorespaces Hasil compile membuat fungsi Plot menggunakan Matplotlib.}}{125}
+\contentsline {figure}{\numberline {6.15\relax }{\ignorespaces hasil run penanganan error}}{126}
+\contentsline {figure}{\numberline {6.16\relax }{\ignorespaces hasil run penanganan error plot}}{127}
+\contentsline {figure}{\numberline {6.17\relax }{\ignorespaces hasil run penanganan error scatter}}{127}
+\contentsline {figure}{\numberline {6.18\relax }{\ignorespaces hasil run penanganan error bar}}{127}
+\contentsline {figure}{\numberline {6.19\relax }{\ignorespaces hasil run penanganan error pie}}{128}
+\contentsline {figure}{\numberline {6.20\relax }{\ignorespaces Penggunaan Subplot pada Matplotlib}}{128}
+\contentsline {figure}{\numberline {6.21\relax }{\ignorespaces Hasil dari Penggunaan Hist dari Code tersebut}}{128}
+\contentsline {figure}{\numberline {6.22\relax }{\ignorespaces Hasil Check Data Plagiarisme}}{128}
+\contentsline {figure}{\numberline {6.23\relax }{\ignorespaces Hasil Melakukan Plot Sumbu X dan Y.}}{129}
+\contentsline {figure}{\numberline {6.24\relax }{\ignorespaces Fungsi Bar.}}{129}
+\contentsline {figure}{\numberline {6.25\relax }{\ignorespaces Fungsi Histogram.}}{129}
+\contentsline {figure}{\numberline {6.26\relax }{\ignorespaces Fungsi Scatter Plot.}}{130}
+\contentsline {figure}{\numberline {6.27\relax }{\ignorespaces Fungsi Area Plot.}}{130}
+\contentsline {figure}{\numberline {6.28\relax }{\ignorespaces Fungsi Pie Plot.}}{130}
+\contentsline {figure}{\numberline {6.29\relax }{\ignorespaces Fungsi Line Graphic.}}{131}
+\contentsline {figure}{\numberline {6.30\relax }{\ignorespaces Fungsi Legend Dan Label.}}{131}
+\contentsline {figure}{\numberline {6.31\relax }{\ignorespaces Fungsi Subplot.}}{131}
+\contentsline {figure}{\numberline {6.32\relax }{\ignorespaces Fungsi Subplot.}}{131}
+\contentsline {figure}{\numberline {6.33\relax }{\ignorespaces Fungsi Bar Praktikum.}}{132}
+\contentsline {figure}{\numberline {6.34\relax }{\ignorespaces Fungsi Scatter Praktikum.}}{132}
+\contentsline {figure}{\numberline {6.35\relax }{\ignorespaces Fungsi Pie Praktikum.}}{133}
+\contentsline {figure}{\numberline {6.36\relax }{\ignorespaces Fungsi Plot Praktikum.}}{133}
+\contentsline {figure}{\numberline {6.37\relax }{\ignorespaces Error Yang Di Dapat.}}{133}

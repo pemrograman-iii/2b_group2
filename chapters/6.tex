@@ -1,4 +1,362 @@
+\section{Alit Fajar Kurniawan 1174057}
+\subsection{Pemahaman Teori}
+	\begin{enumerate}
 
+		\item Apa itu fungsi library matplotlib ?
+			\subitem Matplotlib adalah suatu library Python 2D yang dapat menghasilkan plot dengan kualitas yang tinggi dalam berbagai format dan dapat digunakan di berbagai platform. Matplotlib berfungsi sebagai pembuat grafik di berbagai platform, seperti Python dan Jupyter. Grafik yang dibuat menggunakan Matplotlib bisa dibuat dalam berbagai bentuk, seperti grafik garis, batang, lingkaran, histogram, dan sebagainya.
+		
+		\item Jelaskan langkah-langkah membuat sumbu X dan Y di matplotlib
+			\begin{itemize}
+				\item Pertama import library Matplotlib.	
+				\lstinputlisting[firstline=2, lastline=2]{src/chapter6/1174057/1174057.py}
+				
+				\item Buat variabel x yang menampung list untuk sumbu x dan variabel y yang menampung list untuk sumbu y.	
+				\lstinputlisting[firstline=4, lastline=5]{src/chapter6/1174057/1174057.py}
+				
+				\item Panggil fungsi plot dan isi parameter pertama dengan variabel x dan parameter kedua dengan variabel y.
+				\lstinputlisting[firstline=7, lastline=7]{src/chapter6/1174057/1174057.py}	
+
+				\item Lalu panggil plot tadi dengan memanggil fungsi show.
+				\lstinputlisting[firstline=9, lastline=9]{src/chapter6/1174057/1174057.py}
+			\end{itemize}
+
+			\hfill \break
+			\textbf{Kode Program}
+			
+				\lstinputlisting[caption = Kode program membuat diagram menggunakan Matplotlib., firstline=2, lastline=9]{src/chapter6/1174057/1174057.py}
+				
+			\hfill \break
+			\textbf{Hasil Compile}
+
+			\begin{figure}[H]
+				\includegraphics[width=12cm]{figures/chapter6/1174057/2.png}
+				\centering
+				\caption{Hasil compile membuat diagram menggunakan Matplotlib.}
+			\end{figure}
+			
+		
+		\item Jelaskan bagaimana perbedaan fungsi dan cara pakai untuk berbagai jesnis (bar, histogram, scatter, dll) jenis plot di matplotlib !
+			\begin{itemize}
+				\item \textbf{Bar Graph}
+				
+				Perbedaan bar graph dengan jenis plot yang lain adalah bar graph menggunakan bar atau batang-batang untuk membandingkan data di antara berbagai kategori.
+				
+				\textbf{Kode Program}
+				
+				\lstinputlisting[caption = Kode program membuat bar graph menggunakan Matplotlib., firstline=13, lastline=25]{src/chapter6/1174057/1174057.py}
+				
+				\textbf{Hasil Compile}
+				
+				\begin{figure}[H]
+					\includegraphics[width=12cm]{figures/chapter6/1174057/3.png}
+					\centering
+					\caption{Hasil compile membuat bar graph menggunakan Matplotlib.}
+				\end{figure}
+				
+				\item \textbf{Histogram}
+				
+				Perbedaan histogram dengan jenis plot yang lain adalah histogram akan membuat plot dimana plot yang dimunculkan merupakan gabungan dari beberapa data yang telah dikelompokkan.
+				
+				\textbf{Kode Program}
+				
+				\lstinputlisting[caption = Kode program membuat histogram menggunakan Matplotlib., firstline=29, lastline=36]{src/chapter6/1174057/1174057.py}
+				
+				\textbf{Hasil Compile}
+				
+				\begin{figure}[H]
+					\includegraphics[width=12cm]{figures/chapter6/1174057/3histogram.png}
+					\centering
+					\caption{Hasil compile membuat histogram menggunakan Matplotlib.}
+				\end{figure}
+				
+				\item \textbf{Scatter Plot}
+				
+				Perbedaan scatter plot dengan jenis plot lain adalah scatter plot menampilkan data sebagai kumpulan titik, masing-masing memiliki nilai satu variabel yang menentukan posisi pada sumbu horizontal dan nilai variabel lain menentukan posisi pada sumbu vertikal.
+				
+				\textbf{Kode Program}
+				
+				\lstinputlisting[caption = Kode program membuat scatter plot menggunakan Matplotlib., firstline=40, lastline=53]{src/chapter6/1174057/1174057.py}
+				
+				\textbf{Hasil Compile}
+				
+				\begin{figure}[H]
+					\includegraphics[width=12cm]{figures/chapter6/1174057/3scatter.png}
+					\centering
+					\caption{Hasil compile membuat scatter plot menggunakan Matplotlib.}
+				\end{figure}
+				
+				\item \textbf{Area Plot}
+				
+				Perbedaan area plot dengan jenis plot lain adalah area plot digunakan untuk melacak perubahan dari waktu ke waktu untuk dua atau lebih kelompok terkait yang membentuk satu kategori secara keseluruhan.
+				
+				\textbf{Kode Program}
+				
+				\lstinputlisting[caption = Kode program membuat diagram menggunakan Matplotlib., firstline=57, lastline=76]{src/chapter6/1174057/1174057.py}
+				
+				\textbf{Hasil Compile}
+				
+				\begin{figure}[H]
+					\includegraphics[width=12cm]{figures/chapter6/1174057/3area.png}
+					\centering
+					\caption{Hasil compile membuat diagram menggunakan Matplotlib.}
+				\end{figure}
+				
+				\item \textbf{Pie Plot}
+				
+				Perbedaan pie plot dengan jenis plot lain adalah pie plot digunakan untuk menunjukkan persentase atau data proporsional di mana setiap potongan pie mewakili kategori.
+				
+				\textbf{Kode Program}
+				
+				\lstinputlisting[caption = Kode program membuat Pie Plot menggunakan Matplotlib., firstline=86, lastline=101]{src/chapter6/1174057/1174057.py}
+				
+				\textbf{Hasil Compile}
+				
+				\begin{figure}[H]
+					\includegraphics[width=9cm]{figures/chapter6/1174057/3pie.png}
+					\centering
+					\caption{Hasil compile membuat Pie Plot menggunakan Matplotlib.}
+				\end{figure}
+				
+				\item \textbf{Line Graph}
+				
+				Perbedaan line graph dengan jenis plot lain adalah line graph menampilkan diagram dalam bentuk garis.
+				
+				\textbf{Kode Program}
+				
+				\lstinputlisting[caption = Kode program membuat diagram menggunakan Matplotlib., firstline=105, lastline=113]{src/chapter6/1174057/1174057.py}
+				
+				\textbf{Hasil Compile}
+				
+				\begin{figure}[H]
+					\includegraphics[width=12cm]{figures/chapter6/1174057/3line.png}
+					\centering
+					\caption{Hasil compile membuat diagram menggunakan Matplotlib.}
+				\end{figure}
+				
+			\end{itemize}
+		
+		\item Jelaskan bagaimana cara menggunakan legend dan label serta kaitannya fungsi tersebut !
+			\begin{itemize}
+				\item Untuk menggunakan legend definisikan parameter label di tiap fungsi plot. Parameter label digunakan untuk memberikan label pada line sebagai pembeda antar line.
+				
+				\lstinputlisting[caption = Kode program menggunakan parameter label dengan Matplotlib., firstline=123, lastline=124]{src/chapter6/1174057/1174057.py}
+				
+				\item Kemudian panggil fungsi legend.
+				
+				\lstinputlisting[caption = Kode program memanggil fungsi legend dengan Matplotlib., firstline=128, lastline=128]{src/chapter6/1174057/1174057.py}
+			\end{itemize}
+
+			\hfill \break
+			\textbf{Kode Program}
+
+			\lstinputlisting[caption = Kode program membuat diagram menggunakan Matplotlib., firstline=117, lastline=130]{src/chapter6/1174057/1174057.py}
+
+			\hfill \break
+			\textbf{Hasil Compile}
+
+			\begin{figure}[H]
+				\includegraphics[width=12cm]{figures/chapter6/1174057/4.png}
+				\centering
+				\caption{Hasil compile membuat diagram menggunakan Matplotlib.}
+			\end{figure}
+	
+		\item Jelaskan apa fungsi dari subplot di matplotlib, dan bagaimana cara kerja dari fungsi subplot, sertakan ilustrasi dan gambar sendiri dan apa parameternya jika ingin menggambar plot dengan 9 subplot di dalamnya!
+			\hfill \break
+			Fungsi subplot adalah untuk membuat beberapa plot di dalam satu gambar.
+			\hfill \break
+			Cara kerja subplot, yaitu fungsi subplot memiliki parameter pertama adalah jumlah kolom, parameter kedua adalah jumlah baris, dan parameter ketiga adalah index plot keberapanya.
+
+			\hfill \break
+			\textbf{Kode Program}
+
+			\lstinputlisting[caption = Kode program membuat subplot menggunakan Matplotlib., firstline=134, lastline=146]{src/chapter6/1174057/1174057.py}
+
+			\hfill \break
+			\textbf{Hasil Compile}
+
+			\begin{figure}[H]
+				\includegraphics[width=12cm]{figures/chapter6/1174057/5subplot.png}
+				\centering
+				\caption{Hasil compile membuat subplot menggunakan Matplotlib.}
+			\end{figure}
+
+		\item Sebutkan semua parameter color yang bisa digunakan (contoh:  m,c,r,k,...  dkk)!
+		
+			\begin{itemize}
+				\item 'b' (blue)
+				\item 'g' (green)
+				\item 'r' (red)
+				\item 'c' (cyan)
+				\item 'm' (magenta)
+				\item 'y' (yellow)
+				\item 'k' (black)
+				\item 'w' (white)
+			\end{itemize}
+
+		\item Jelaskan bagaimana cara kerja dari fungsi hist, sertakan ilustrasi dan gambar sendiri!
+
+			\hfill \break
+			Cara kerja dari fungsi hist yaitu fungsi hist akan menerima parameter yang diberikan, kemudian fungsi hist akan dieksekusi sesuai dengan parameter yang diberikan.
+
+			\hfill \break
+			\textbf{Kode Program}
+
+			\lstinputlisting[caption = Kode program membuat diagram menggunakan Matplotlib., firstline=150, lastline=157]{src/chapter6/1174057/1174057.py}
+
+			\hfill \break
+			\textbf{Hasil Compile}
+
+			\begin{figure}[H]
+				\includegraphics[width=12cm]{figures/chapter6/1174057/7histogram.png}
+				\centering
+				\caption{Hasil compile membuat diagram menggunakan Matplotlib.}
+			\end{figure}
+			
+		\item Jelaskan lebih mendalam tentang parameter dari fungsi pie diantaranya labels, colors, startangle, shadow, explode, autopct!
+ 
+			 \begin{itemize}
+				\item labels : untuk memberikan label di tiap persentase.
+				\item colors : untuk memberikan warna di tiap persentase.
+				\item startangle : untuk memutar plot sesuai dengan derajat yang ditentukan.
+				\item shadow : untuk memberikan bayangan pada plot.
+				\item explode : untuk memisahkan antar tiap potongan pie pada plot.
+				\item autopct : untuk menentukan jumlah angka dibelakang koma.
+			 \end{itemize}
+		
+	\end{enumerate}
+	
+	\subsection{Keterampilan Pemogramman}
+	\begin{enumerate}
+		\item Buatlah librari fungsi (file terpisah/library dengan nama NPMbar.py) untuk plot dengan jumlah subplot adalah NPM mod 3 + 2!
+
+			\hfill \break
+			\textbf{Kode Program}
+
+			\lstinputlisting[caption = Kode program membuat fungsi Bar Plot menggunakan Matplotlib., firstline=1, lastline=21]{src/chapter6/1174057/1174057_bar.py}
+
+			\hfill \break
+			\textbf{Hasil Compile}
+
+			\begin{figure}[H]
+				\includegraphics[width=12cm]{figures/chapter6/1174057/praktek1.png}
+				\centering
+				\caption{Hasil compile membuat fungsi Bar Plot menggunakan Matplotlib.}
+			\end{figure}
+			
+		\item Buatlah librari fungsi (file terpisah/library dengan nama NPMscatter.py) untuk plot dengan jumlah subplot NPM mod 3 + 2!
+					
+			\hfill \break
+			\textbf{Kode Program}
+
+			\lstinputlisting[caption = Kode program membuat fungsi Scatter Plot menggunakan Matplotlib., firstline=1, lastline=23]{src/chapter6/1174057/1174057_scatter.py}
+
+			\hfill \break
+			\textbf{Hasil Compile}
+
+			\begin{figure}[H]
+				\includegraphics[width=12cm]{figures/chapter6/1174057/praktek2.png}
+				\centering
+				\caption{Hasil compile membuat fungsi Scatter Plot menggunakan Matplotlib.}
+			\end{figure}
+
+		\item Buatlah librari fungsi (file terpisah/library dengan nama NPMpie.py) untuk plot dengan jumlah subplot NPM mod 3 + 2!
+
+			\hfill \break
+			\textbf{Kode Program}
+
+			\lstinputlisting[caption = Kode program membuat fungsi Pie Plot menggunakan Matplotlib., firstline=1, lastline=23]{src/chapter6/1174057/1174057_pie.py}
+
+			\hfill \break
+			\textbf{Hasil Compile}
+
+			\begin{figure}[H]
+				\includegraphics[width=12cm]{figures/chapter6/1174057/praktek3.png}
+				\centering
+				\caption{Hasil compile membuat fungsi Pie Plot menggunakan Matplotlib.}
+			\end{figure}
+			
+		\item Buatlah librari fungsi (file terpisah/library dengan nama NPMplot.py) untuk plot dengan jumlah subplot NPM mod 3 + 2
+
+			\hfill \break
+			\textbf{Kode Program}
+
+			\lstinputlisting[caption = Kode program membuat fungsi Plot menggunakan Matplotlib., firstline=1, lastline=23]{src/chapter6/1174057/1174057_plot.py}
+
+			\hfill \break
+			\textbf{Hasil Compile}
+
+			\begin{figure}[H]
+				\includegraphics[width=12cm]{figures/chapter6/1174057/praktek4.png}
+				\centering
+				\caption{Hasil compile membuat fungsi Plot menggunakan Matplotlib.}
+			\end{figure}	
+	\end{enumerate}
+	
+	\subsection{Keterampilan Penanganan Error}
+		Tuliskan  peringatan  error  yang  didapat  dari  mengerjakan  praktek  keenam  ini, dan  jelaskan  cara  penanganan  error  tersebut. dan  Buatlah  satu  fungsi  yang menggunakan try except untuk menanggulangi error tersebut.
+
+		\hfill \break
+		Peringatan error di praktek kelima ini, yaitu:
+		\begin{itemize}
+			\item Syntax Errors
+			Syntax Errors adalah suatu keadaan saat kode python mengalami kesalahan penulisan. Solusinya adalah memperbaiki penulisan kode yang salah.
+			
+			\item Name Error
+			NameError adalah exception yang terjadi saat kode melakukan eksekusi terhadap local name atau global name yang tidak terdefinisi. Solusinya adalah memastikan variabel atau function yang dipanggil ada atau tidak salah ketik.
+			
+			\item Type Error
+			TypeError adalah exception yang akan terjadi apabila pada saat dilakukannya eksekusi terhadap suatu operasi atau fungsi dengan type object yang tidak sesuai. Solusi dari error ini adalah mengkoversi varibelnya sesuai dengan tipe data yang akan digunakan.
+		\end{itemize}
+		\hfill \break
+		Fungsi yang menggunakan try except untuk menanggulangi error.
+
+		\hfill \break
+		\textbf{Kode Program}
+
+		\lstinputlisting[caption = Kode program membuat fungsi penanganan error., firstline=161, lastline=178]{src/chapter6/1174057/1174057.py}
+
+		\hfill \break
+		\textbf{Hasil Compile}
+
+		\begin{figure}[H]
+			\includegraphics[width=12cm]{figures/chapter6/1174057/error.png}
+			\centering
+			\caption{hasil run penanganan error}
+		\end{figure}
+		
+		\subsection{Screenshoot Plagiat}
+		\begin{figure}[H]
+			\includegraphics[width=12cm]{figures/chapter6/1174057/plagiarisme.png}
+			\centering
+		\end{figure}
+		
+		\subsection{Screenshoot Kode Program}
+		
+		\begin{figure}[H]
+			\includegraphics[width=9cm]{figures/chapter6/1174057/error1.png}
+			\centering
+			\centering
+			\caption{hasil run penanganan error plot}
+		\end{figure}
+		\begin{figure}[H]
+			\includegraphics[width=9cm]{figures/chapter6/1174057/error2.png}
+			\centering
+			\centering
+			\caption{hasil run penanganan error scatter}
+		\end{figure}
+		\begin{figure}[H]
+			\includegraphics[width=9cm]{figures/chapter6/1174057/error3.png}
+			\centering
+			\centering
+			\caption{hasil run penanganan error bar}
+		\end{figure}
+		\begin{figure}[H]
+			\includegraphics[width=9cm]{figures/chapter6/1174057/error4.png}
+			\centering
+			\centering
+			\caption{hasil run penanganan error pie}
+		\end{figure}
+		
 \section{Fathi Rabbani / 1164074}
 \subsection{Teori}
 \begin{enumerate}
