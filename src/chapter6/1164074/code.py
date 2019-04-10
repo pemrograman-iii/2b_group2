@@ -81,4 +81,29 @@ plt.hist(x, nK, facecolor='blue', alpha=0.5)
 plt.show()
 
 # In[10]
-# 
+#Pemrograman
+
+batang = __import__('1164074_bar')
+garis = __import__('1164074_plot')
+titik = __import__('1164074_scatter')
+pie = __import__('1164074_pir')
+
+batang.databar()
+garis.dataplot()
+titik.datascatter()
+pie.datapie()
+
+# In[11]
+# Try Error
+
+def tryExceptError():
+    a = 1, 2, 3
+    b = "1", "2", "3" 
+    try:
+        plt.plot(x, b)
+        plt.show()
+    except IndexError:
+        print('check datanya')
+print('variable error')
+
+        
